@@ -1,4 +1,35 @@
 Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Corporate,United States,Los Angeles,California,90001,West,Office Supplies,Binders,64.92,2,0.1,16.230
+First Class,Home Office,United States,Miami,Florida,33101,South,Technology,Phones,911.76,4,0.2,364.704
+Second Class,Consumer,United States,Denver,Colorado,80012,West,Furniture,Tables,389.94,1,0,58.491
+Standard Class,Corporate,United States,Austin,Texas,73301,Central,Office Supplies,Paper,29.48,5,0.05,2.948
+First Class,Home Office,United States,New York,New York,10001,East,Technology,Accessories,119.98,2,0.15,19.796
+Same Day,Consumer,United States,Chicago,Illinois,60007,Central,Furniture,Furnishings,449.96,3,0,67.494
+Second Class,Corporate,United States,Phoenix,Arizona,85001,West,Office Supplies,Storage,48.96,4,0,7.344
+Standard Class,Consumer,United States,Seattle,Washington,98001,West,Technology,Machines,579.95,1,0.2,173.985
+First Class,Home Office,United States,Orlando,Florida,32801,South,Furniture,Supplies,193.98,2,0.15,29.097
+Same Day,Consumer,United States,Boston,Massachusetts,02101,East,Office Supplies,Art,53.94,3,0.1,7.191
+Standard Class,Corporate,United States,Houston,Texas,77001,Central,Furniture,Chairs,839.94,6,0.2,167.988
+First Class,Home Office,United States,Atlanta,Georgia,30301,South,Technology,Phones,1237.68,4,0.1,123.768
+Second Class,Consumer,United States,San Francisco,California,94101,West,Furniture,Tables,899.89,2,0.15,134.9835
+Standard Class,Corporate,United States,Minneapolis,Minnesota,55401,Central,Office Supplies,Envelopes,59.88,6,0.05,2.994
+Same Day,Consumer,United States,Detroit,Michigan,48201,Central,Technology,Storage,459.96,1,0.1,45.996
+Second Class,Home Office,United States,Dallas,Texas,75201,Central,Furniture,Bookcases,649.92,3,0.2,129.984
+First Class,Corporate,United States,Las Vegas,Nevada,89101,West,Office Supplies,Fasteners,99.96,4,0.05,4.998
+Standard Class,Consumer,United States,Columbus,Ohio,43201,Central,Technology,Copiers,1099.95,1,0.1,109.995
+Same Day,Home Office,United States,Charlotte,North Carolina,28201,South,Furniture,Tables,539.93,1,0,80.9895
+Second Class,Consumer,United States,San Diego,California,92101,West,Office Supplies,Appliances,89.97,3,0.2,17.994
+Standard Class,Corporate,United States,Portland,Oregon,97201,West,Furniture,Supplies,263.97,2,0.15,39.5955
+First Class,Home Office,United States,Baltimore,Maryland,21201,East,Technology,Phones,1323.72,3,0.1,132.372
+Same Day,Consumer,United States,Cleveland,Ohio,44101,Central,Furniture,Chairs,419.97,3,0.1,62.9955
+Standard Class,Corporate,United States,Indianapolis,Indiana,46201,Central,Office Supplies,Binders,104.88,4,0,15.732
+Second Class,Home Office,United States,Kansas City,Missouri,64101,Central,Technology,Accessories,239.96,4,0.1,23.996
+First Class,Consumer,United States,Memphis,Tennessee,37501,South,Furniture,Bookcases,699.92,2,0.05,34.996
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19101,East,Office Supplies,Art,149.94,3,0.1,22.491
+Second Class,Home Office,United States,Richmond,Virginia,23218,East,Furniture,Tables,829.88,2,0.15,124.482
+Standard Class,Consumer,United States,Nashville,Tennessee,37201,South,Technology,Phones,1798.56,6,0.2,359.712
+First Class,Corporate,United States,Milwaukee,Wisconsin,53201,Central,Furniture,Furnishings,149.99,1,0.05,7.4995
+Same Day,Home Office,United States,St. Louis,Missouri,63101,Central,Office Supplies,Storage,59.95,2,0.1,5.995
 Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,0,41.9136
 Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,0,219.582
 Second Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Labels,14.62,2,0,6.8714
